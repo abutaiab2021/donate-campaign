@@ -45,7 +45,7 @@
 .donate-today{
     text-align: center;
     margin: 0 auto;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     
 }
 .donate-today-title {
@@ -156,6 +156,7 @@ hr{
     text-align: center;
     margin: 0 auto;
     width: 100%;
+    margin-bottom: 100px;
 }
 .their-lives-info{
     width: 50%;
@@ -181,6 +182,44 @@ hr{
         color: lightslategray;
         text-align: left;
         margin-bottom: 20px;
+}
+
+.continue{
+    margin-right: 550px;
+}
+
+/* my-update styles */
+.my-update{
+    width: 50%;
+    text-align: center;
+    margin-left: 500px;
+}
+
+.my-update-title{
+    font-size: 50px;
+        color: dark black;
+        font-weight: 700;
+        margin-bottom: 20px;
+}
+
+.my-update-description{
+    font-size: 20px;
+        color: lightslategray;
+        margin-bottom: 50px;
+}
+
+.email-part{
+    background-color: lightyellow;
+    padding: 100px;
+}
+
+.email-field{
+    padding: 14px 20px;
+    border: 0;
+    width: 300px;
+    border-radius: 5px;
+    margin-left: 50px;
+    background-color: #eef4f6;
 }
 
 
